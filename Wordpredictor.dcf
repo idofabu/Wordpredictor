@@ -1,0 +1,12 @@
+name: Wordpredictor
+title: Wordpredictor
+username:
+account: idofabu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 275403
+bundleId: 1212943
+url: https://idofabu.shinyapps.io/Wordpredictor/
+when: 1518056251.16169
+asMultiple: FALSE
+asStatic: FALSE
